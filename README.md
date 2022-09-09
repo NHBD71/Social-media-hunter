@@ -32,7 +32,7 @@
 
   
 
-  <img style="width= 100%;" src="Img/1662749476812.jpg" alt="pic" />
+  <img style="width= 100%;" src="Imgg/1662749476812.jpg" alt="pic" />
 
   
 
