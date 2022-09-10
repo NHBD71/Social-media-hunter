@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Document</title>
+  
   
   
 
@@ -20,7 +20,7 @@
   <div class="logo">
   <img style="width:40%;
       border: 4px solid green;
-      border-radius: 50%;" src="Imgg/1662749476812.jpg" alt="pic" />
+      border-radius: 50%; text-aligent: center;" src="Imgg/1662749476812.jpg" alt="pic" />
   </div>
   <br>
   <br>
