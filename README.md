@@ -7,39 +7,7 @@
   <title>Document</title>
   
   
-  <style type="text/css" media="all">
-    
-    .logo img{
-      width:40%;
-      border: 4px solid green;
-      border-radius: 50%;
-     
-    }
-    .logo{
-      text-align: center;
-    }
-    
-    .tool{
-      text-align: center;
-    }
-    .tool img{
-      width: 100%;
-    }
-    
-    .user{
-      text-align: center;
-      background: #ddd;
-      text-transform: uppercase;
-    }
-    
-    .Social button {
-      padding: 6px;
-      background: skyblue;
-      border-radius: 10px;
-      text-transform: uppercase;
-      
-    }
-  </style>
+
   
 </head>
 <body>
@@ -50,7 +18,9 @@
  
   
   <div class="logo">
-  <img src="Imgg/1662749476812.jpg" alt="pic" />
+  <img style="width:40%;
+      border: 4px solid green;
+      border-radius: 50%;" src="Imgg/1662749476812.jpg" alt="pic" />
   </div>
   <br>
   <br>
@@ -85,7 +55,10 @@
  
 <div class="Social">
   
-  <h3>CONNECT ME ON  <a href="https://www.facebook.com/Toxic.Shiddik"><button type="submit"><b>Facebook </b></button></a></h3>
+  <h3>CONNECT ME ON  <a href="https://www.facebook.com/Toxic.Shiddik"><button style="padding: 6px;
+      background: skyblue;
+      border-radius: 10px;
+      text-transform: uppercase;"><b>Facebook </b></button></a></h3>
 </div>
   
   
